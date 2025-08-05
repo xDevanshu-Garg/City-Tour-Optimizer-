@@ -1,4 +1,8 @@
-# City Tour Optimizer - Project Documentation
+# City Tour Optimizer
+
+A Python application that finds the shortest route for visiting Indian cities using the TSP algorithm and visualizes the journey on static and interactive maps.
+
+# Project Documentation
 
 ## Project Overview
 The City Tour Optimizer is a Python application that finds the shortest possible route for visiting multiple Indian cities using the Traveling Salesman Problem (TSP) algorithm. The tool uses real-world geographic coordinates to calculate distances between cities, optimizes the route, and visualizes the results.
